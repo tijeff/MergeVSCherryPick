@@ -2,4 +2,4 @@
 
 Présentation de la différence entre les 2 opérations git :
 * merge
-* cherry-pick
+* cherry-pick <>
